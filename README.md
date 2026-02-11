@@ -66,12 +66,6 @@
 <br />
 
 
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/>
-
-
-
 ## GitHub Analytics
 
 <p align="left">
