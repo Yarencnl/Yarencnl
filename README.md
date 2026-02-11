@@ -41,7 +41,7 @@
 [<img align="left" alt="Kotlin" width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][Kotlin]
 [<img align="left" alt="Linux" width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][Linux]
 [<img align="left" alt="MySQL" width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
-[<img align="left" alt="SQLite" width="50px" src="https://cdn.shopaccino.com/igmguru/products/sqlite-course-online-1105552336759641_l.jpg?v=546" />][SQLite]
+<img align="left" alt="SQLite" width="50px" src="https://cdn.shopaccino.com/igmguru/products/sqlite-course-online-1105552336759641_l.jpg?v=546" />
 
 
 <br />
