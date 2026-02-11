@@ -13,6 +13,8 @@
 
 <br />
 
+[linkedin]: https://www.linkedin.com/in/yaren-canli-a55539242/
+[medium]: https://medium.com/@canliyaren0
 
 <br />
 
@@ -39,8 +41,7 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/yaren-canli-a55539242/
-[medium]: https://medium.com/@canliyaren0
+
 [VisualStudioCode]: https://code.visualstudio.com
 [VisualStudio]: https://visualstudio.microsoft.com/
 [Git]: https://git-scm.com
