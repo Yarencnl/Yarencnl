@@ -71,8 +71,8 @@
 ## GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yarencnl&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaren's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarencnl&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yarencnl&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaren's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarencnl&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="150" />
 </p>
 
 
