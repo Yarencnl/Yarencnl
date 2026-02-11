@@ -11,12 +11,16 @@
 [<img align="left" alt="linkedin | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
 
+
 <br />
+
 
 [linkedin]: https://www.linkedin.com/in/yaren-canli-a55539242/
 [medium]: https://medium.com/@canliyaren0
 
+
 <br />
+
 
 
 ## Tools and Languages
@@ -38,6 +42,7 @@
 [<img align="left" alt="Linux" width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][Linux]
 [<img align="left" alt="MySQL" width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
 [<img align="left" alt="SQLite" width="50px" src="https://cdn.shopaccino.com/igmguru/products/sqlite-course-online-1105552336759641_l.jpg?v=546" />][SQLite]
+
 
 <br />
 
