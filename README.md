@@ -74,8 +74,11 @@
 
 ## GitHub Analytics
 
-<img height="150"  align="left" src="https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yarencnl&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaren's GitHub Stats" height="150" />
+</p>
+
+
 
 
 
