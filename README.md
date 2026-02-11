@@ -8,7 +8,7 @@
   
 ## Connect with me 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="medium | Medium" widht="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg"/>][Medium]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][medium]
 
 <br />
 
