@@ -70,6 +70,3 @@
 <br />
 <br />
 <br />
-
-
-## GitHub Analytics
