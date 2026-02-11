@@ -75,7 +75,7 @@
 ## GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yarencnl&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaren's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yarencnl&show_icons=true&theme=tokyonight&hide_border=true" alt="Yaren's GitHub Stats" height="250" />
 </p>
 
 
