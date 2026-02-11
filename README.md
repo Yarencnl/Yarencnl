@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning Cyber Security
 - 📫 How to reach me yaren@canli.dev
 - ✨ My personal website https://yaren.canli.dev/
-  
-<br />
  
 ## Connect with me 
 [<img align="left" alt="linkedin | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />][linkedin]
@@ -68,6 +66,7 @@
 [SQLite]: https://sqlite.org
 
 
+<br />
 <br />
 <br />
 <br />
