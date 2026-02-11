@@ -68,7 +68,7 @@
 
 
 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
 
 
 
