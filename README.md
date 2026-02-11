@@ -75,12 +75,11 @@
 ## GitHub Analytics
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yarencnl&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarencnl&layout=compact&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yarencnl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarencnl&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180" />
 </p>
 
 
