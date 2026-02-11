@@ -9,7 +9,7 @@
 ## Connect with me 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />][linkedin]
 
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" alt="medium | Medium" widht="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYkXn255w-L73TtiJiKhKoPkJNTfqTb9RMw&s"/>][Medium]
 
 <br />
 
