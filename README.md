@@ -69,9 +69,8 @@
 
 
 
-### GitHub Analytics
+## GitHub Analytics
 
-![Github stats ](https://github-readme-stats.vercel.app/api?username=Yarencnl&show_icons=true&theme=radical)
 
 
 
