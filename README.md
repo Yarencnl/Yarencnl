@@ -74,7 +74,7 @@
 
 ## GitHub Analytics
 
-<img height="100em" weidht="120em" align="left" src="https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical" />
+<img height="150"  align="left" src="https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical" />
 </a>
 
 
