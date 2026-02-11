@@ -7,6 +7,8 @@
 - 📫 How to reach me yaren@canli.dev
 - ✨ My personal website https://yaren.canli.dev/
   
+<br />
+ 
 ## Connect with me 
 [<img align="left" alt="linkedin | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
@@ -66,6 +68,7 @@
 [SQLite]: https://sqlite.org
 
 
+<br />
 <br />
 <br />
 
