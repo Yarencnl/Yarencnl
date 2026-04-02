@@ -1,9 +1,12 @@
-## Hi👋 I'm Yaren CANLI 
+<h1 align="center">
+ Hi👋 I'm Yaren CANLI
+</h1>
+<h6 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=FF6EC7&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student" />
+</h6
 
-    COMPUTER ENGINEERING STUDENT
-
-
-- 🌱 I’m currently learning Cyber Security
+## About me
+- 🌱 I’m currently learning Cyber Security, Swift and SwiftUI
 - 📫 How to reach me yaren@canli.dev
 - ✨ My personal website https://yaren.canli.dev/
  
