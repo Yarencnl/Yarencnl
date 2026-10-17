@@ -2,30 +2,54 @@
  Hi👋 I'm Yaren CANLI
 </h1>
 <h6 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00c5cd&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student" />
-</h6
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00c5cd&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;CyberSecurity+%26+AI+Security" />
+</h6>
 
-- 🌱 I’m currently learning Cyber Security, Swift and SwiftUI
-- 📫 How to reach me yaren@canli.dev
-- ✨ My personal website https://yaren.canli.dev/
- 
-## Connect with me 
-[<img align="left" alt="linkedin | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />][medium]
+<p align="center">
+  <a href="https://www.linkedin.com/in/yaren-canli">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@canliyaren0">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:yaren@canli.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://yaren.canli.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-00c5cd?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
 
+</br>
+
+
+<p align="center">
+  🔭 4th-year CE student & <b>R&D</b> Developer focusing on web apps and Docker-based penetration testing labs.<br>
+  🌱 Currently exploring <b>Swift & SwiftUI</b> for mobile and actively writing about cybersecurity.
+</p>
 
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/yaren-canli-a55539242/
-[medium]: https://medium.com/@canliyaren0
+<div align="center">
+  <a href="https://github.com/Yarencnl">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yarencnl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yaren's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Yarencnl">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarencnl&theme=tokyonight&hide_border=true&background=0D1117" alt="Yaren's GitHub Streak" />
+  </a>
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yarencnl/Yarencnl/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yarencnl/Yarencnl/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yarencnl/Yarencnl/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 
-<br />
-<br />
-
-
-
+<!--
 ## Tools and Languages
 
 
@@ -74,3 +98,4 @@
 <br />
 <br />
 <br />
+-->
