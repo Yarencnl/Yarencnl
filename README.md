@@ -32,9 +32,11 @@
 
 
 <div align="center">
+ <!--
   <a href="https://github.com/Yarencnl">
     <img src="https://github-readme-stats.vercel.app/api?username=Yarencnl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Yaren's GitHub Stats" />
   </a>
+ -->
   <a href="https://github.com/Yarencnl">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarencnl&theme=tokyonight&hide_border=true&background=0D1117" alt="Yaren's GitHub Streak" />
   </a>
