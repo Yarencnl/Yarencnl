@@ -21,6 +21,11 @@
 </p>
 
 </br>
+<p align="center">
+  <a href="https://akademi.altaysec.com.tr/u/yrncanli?ref=yrncanli&utm_source=github&utm_medium=rozet">
+    <img src="https://akademi.altaysec.com.tr/rozet/yrncanli.svg" alt="AltaySec Akademi">
+  </a>
+</p>
 
 
 <p align="center">
